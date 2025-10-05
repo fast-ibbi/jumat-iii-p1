@@ -33,6 +33,7 @@
 - Asesmen: Tugas latihan script dasar.
 
 - Slides :
+  - https://fast-ibbi.github.io/jumat-iii-p1/pertemuan-2
 
 ### Pertemuan 3
 
@@ -45,6 +46,7 @@
 - Asesmen: Kuis + latihan kode logika percabangan.
 
 - Slides :
+  - https://fast-ibbi.github.io/jumat-iii-p1/pertemuan-3
 
 ### Pertemuan 4
 
@@ -57,6 +59,7 @@
 - Asesmen: Tugas pemrograman membuat kalkulator sederhana.
 
 - Slides :
+  - https://fast-ibbi.github.io/jumat-iii-p1/pertemuan-4
 
 ### Pertemuan 5
 
@@ -69,6 +72,7 @@
 - Asesmen: Tugas mandiri manipulasi DOM berbasis kasus.
 
 - Slides :
+  - https://fast-ibbi.github.io/jumat-iii-p1/pertemuan-5
 
 ### Pertemuan 6
 
@@ -81,6 +85,7 @@
 - Asesmen: Kuis singkat + latihan handling event.
 
 - Slides :
+  - https://fast-ibbi.github.io/jumat-iii-p1/pertemuan-6
 
 ### Pertemuan 7
 
@@ -93,6 +98,7 @@
 - Asesmen: Tugas membuat aplikasi kecil konsumsi data API.
 
 - Slides :
+  - https://fast-ibbi.github.io/jumat-iii-p1/pertemuan-7
 
 ### Pertemuan 8 (UTS)
 
@@ -105,6 +111,7 @@
 - Asesmen: UTS.
 
 - Slides :
+  - https://fast-ibbi.github.io/jumat-iii-p1/pertemuan-8
 
 ### Pertemuan 9
 
@@ -117,6 +124,7 @@
 - Asesmen: Praktikum setup Node.js dan server sederhana.
 
 - Slides :
+  - https://fast-ibbi.github.io/jumat-iii-p1/pertemuan-9
 
 ### Pertemuan 10
 
@@ -129,6 +137,7 @@
 - Asesmen: Tugas membuat aplikasi server sederhana dengan routing.
 
 - Slides :
+  - https://fast-ibbi.github.io/jumat-iii-p1/pertemuan-10
 
 ### Pertemuan 11
 
@@ -141,6 +150,7 @@
 - Asesmen: Kuis + praktik middleware.
 
 - Slides :
+  - https://fast-ibbi.github.io/jumat-iii-p1/pertemuan-11
 
 ### Pertemuan 12
 
@@ -153,6 +163,7 @@
 - Asesmen: Tugas membuat halaman dinamis dengan template engine.
 
 - Slides :
+  - https://fast-ibbi.github.io/jumat-iii-p1/pertemuan-12
 
 ### Pertemuan 13
 
@@ -165,6 +176,7 @@
 - Asesmen: Tugas pembuatan aplikasi CRUD kecil.
 
 - Slides :
+  - https://fast-ibbi.github.io/jumat-iii-p1/pertemuan-13
 
 ### Pertemuan 14
 
@@ -177,6 +189,7 @@
 - Asesmen: Tugas membuat REST API sederhana untuk resource tertentu.
 
 - Slides :
+  - https://fast-ibbi.github.io/jumat-iii-p1/pertemuan-14
 
 ### Pertemuan 15
 
@@ -189,6 +202,7 @@
 - Asesmen: Penilaian proyek mini.
 
 - Slides :
+  - https://fast-ibbi.github.io/jumat-iii-p1/pertemuan-15
 
 ### Pertemuan 16 (UAS)
 
@@ -199,5 +213,3 @@
 - Aktivitas: Ujian teori + presentasi proyek final.
 
 - Asesmen: UAS.
-
-- Slides :
