@@ -1,0 +1,36 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+    <script>
+        let pilihanMenu = 7;
+        let kategori;
+
+        switch(pilihanMenu){
+            case 1: 
+            case 2: 
+            case 3: 
+                kategori = "Minuman Dingin";
+                break;
+            case 4: 
+            case 5: 
+            case 6: 
+                kategori = "Minuman Panas";
+                break;
+            case 7: 
+            case 8: 
+                kategori = "Minuman Spesial";
+                break;
+        }
+
+        document.write(`
+            Menu: ${pilihanMenu} <br>
+            Kategori: ${kategori}`);
+    </script>
+</body>
+</html>

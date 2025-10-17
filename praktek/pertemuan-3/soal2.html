@@ -1,0 +1,47 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let angka1 = 10;
+        let angka2 = 20;
+        let operator = "*";
+
+        let hasil;
+
+        /* switch (operator) {
+        case "+":
+            hasil = angka1 + angka2;
+            break;
+        case "-":
+            hasil = angka1 - angka2;
+            break;
+        case "*":
+            hasil = angka1 * angka2;
+            break;
+        case "/":
+            hasil = angka1 / angka2;
+            break;
+        default:
+            document.write("Operator tidak valid");
+        } */
+
+        if (operator === "+") {
+            hasil = angka1 + angka2;
+        } else if (operator === "-") {
+            hasil = angka1 - angka2;
+        } else if (operator === "*") {
+            hasil = angka1 * angka2;
+        } else if (operator === "/") {
+            hasil = angka1 / angka2;
+        } else {
+            document.write("Operator tidak valid");
+        }
+
+        document.write(`${angka1} ${operator} ${angka2} = ${hasil}`)
+    </script>
+</body>
+</html>

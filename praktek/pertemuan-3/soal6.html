@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+    <script>
+        let angka = 5;
+        let rumus = "";
+        let hasil = 1;
+
+       for(let i=angka; i >= 1; i--){
+            // hasil = hasil * i;
+            hasil *= i;
+
+            // rumus = rumus + `${i}`;
+            rumus += `${i}`;
+            // if (i > 1) rumus = rumus + " x ";
+            if (i > 1) rumus += " x ";
+       }
+
+        document.write(`${angka}! = ${rumus} = ${hasil}`);
+    </script>
+</body>
+</html>
